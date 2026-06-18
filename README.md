@@ -1,2 +1,2 @@
 # Project-HAVEN
-# Project-HAVEN
+HAVEN is a research and implementation project focused on designing a cryptographically secure leader election and communication protocol for Wireless Sensor Networks (WSNs) deployed in hostile environments such as battlefields, disaster zones, and remote monitoring sites. The core challenge is to achieve authenticated, tamper-resistant leader election without any trusted infrastructure, public-key cryptography, or pre-shared pairwise keys:using only symmetric primitives on severely resource-constrained embedded nodes.
