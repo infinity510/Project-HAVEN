@@ -5,11 +5,12 @@ import random
 import math
 
 # --- Simulation Parameters ---
-NUM_NODES = 20
+NUM_NODES = 2
+000
 BROADCAST_INTERVAL = 2      
-TIMEOUT_LIMIT = 5           
-FAIL_PROB = 0.01            
-RECOVER_PROB = 0.06         
+TIMEOUT_LIMIT = 10          
+FAIL_PROB = 0.00001            
+RECOVER_PROB = 0.6         
 
 class Node:
     def __init__(self, node_id, physical_neighbors):
